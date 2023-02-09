@@ -5,6 +5,6 @@
 127.0.0.1:6379>SADD FEES : fees_amount 2000 3000 4000
 127.0.0.1:6379>SADD FESS : fees_type monthly yearly quaterly
 127.0.0.1:6379>SADD STU_ACCESS : stu_id s1 s2 s3 
-127.0.0.1:6379>SADD STU_ACCESS : stu_name Nivetha Hariharan Nandhini
+127.0.0.1:6379>SADD STU_ACCESS : stu_name Nivetha Hariharan Harini
 127.0.0.1:6379>SADD STU_ACCESS : stu_pwd n45 h78 n56
-127.0.0.1:6379>SADD STU_ACCESS : stu_username Nivi Hari Nandi
+127.0.0.1:6379>SADD STU_ACCESS : stu_username Nivi12 Hari34 harini36
